@@ -1,5 +1,5 @@
 <!-- the gif from the dir -->
-![](staranimation.gif)
+![](animation2.gif)
 
 <!--
 **AT-Lorlando/AT-Lorlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
